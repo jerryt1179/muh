@@ -1,3 +1,3 @@
 print("fat buh")
 
-prnt('muh')
+print('muh')
